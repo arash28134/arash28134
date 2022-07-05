@@ -27,3 +27,5 @@ You can contact me at:
 * [My email](mailto:atashroozarash@gmail.com)
 * [My Steam profile](https://steamcommunity.com/id/ViperTheGuy/)
 * My Discord: `ViperTheGuy#8249`
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight)
