@@ -17,7 +17,7 @@
 * I use Windows for developing Garry's Mod Addons, Gaming, 3D/2D Arts, Gamedev and .NET projects
 * I use Ubuntu for projects related to C/C++, specially their graphical libraries
 * I use Visual Studio Code as my main editor
-* I also often use Nano for configuring stuff in Ubuntu machine
+* I also often use Nano for configuring stuff in my Ubuntu machine
 
 ### 📈 My Stats
 [![Ali Atashrooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arash28134&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/arash28134)
