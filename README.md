@@ -8,10 +8,10 @@
 * You can call me by "He/Him" pronouns
 
 ### 📖 What things do I know?
-* I know C# as my main language
+* I know C# and C++ as my main language
 * I have experience working with the Unity game engine and It's API
 * I use Lua a lot in my projects, specially my Garry's Mod Addons
-* I'm learning C++ at the moment
+* I'm learning OpenGL library at the moment
 
 ### 💻 What technologies do I use?
 * I use Windows for developing Garry's Mod Addons, Gaming, 3D/2D Arts, Gamedev and .NET projects
