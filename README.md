@@ -20,7 +20,7 @@
 * I also often use Nano for configuring stuff in my Ubuntu machine
 
 ### 📈 My Stats
-[![Ali Atashrooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arash28134&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/arash28134)
+[![Ali Atashrooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arash28134&count_private=true&show_icons=true&theme=graywhite)](https://github.com/arash28134)
 
 ### But Ali, how can I contact you?
 You can contact me at:
