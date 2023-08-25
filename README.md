@@ -35,6 +35,7 @@
 
 <!--- Flags --->
 ### Languages and Tools:
+<!-- Linux --> <a href="https://www.linux.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="40" height="40"/> </a>
 <!-- Arch Linux --> <a href="https://archlinux.org/"> <img src="https://gitlab.archlinux.org/uploads/-/system/group/avatar/23/iconfinder_archlinux_386451.png" alt="Arch Linux" width="40" height="40"/> </a>
 <!-- C++ --> <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <!-- C --> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
