@@ -13,10 +13,10 @@
 
 ```
 - 👋 Hi, I’m Ali Atashrooz
-- 👀 I’m interested in Machine Learning and Low Level Development
-- 🌱 I’m currently learning everything that comes in my way, but particularly Computers 😅
-- 🏫 I'm currently studying Data Structures and Algorithms through C++ along with Tensorflow framework
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society
+- 👀 Interested in Machine Learning and Low Level Development
+- 🌱 Currently studying Data Structures and Algorithms through C++ along with Tensorflow framework
+- 🖥️ I use Arch Linux with i3wm and Rofi as my desktop
+- 🙌 Looking to collaborate on FOSS projects
 - 📫 You can reach me at atashroozarash@gmail.com or my discord "vipertheguy"
 ```
 
