@@ -61,6 +61,3 @@
   <a href="https://codeproject.com/Members/arash28134"> <img align="left" src="https://img.shields.io/badge/CodeProject-%23964B00.svg?logo=CodeProject&logoColor=green"> </a>
   <a href="https://www.reddit.com/user/arash28134"> <img align="left" src="https://img.shields.io/badge/Reddit-fc4503.svg?logo=Reddit&logoColor=white"> </a>
   <br>
-<p align="center">
-<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
-</p>
