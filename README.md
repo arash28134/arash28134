@@ -15,7 +15,7 @@
 - 👋 Hi, I’m Ali Atashrooz
 - 👀 Interested in transistors 
 - 🌱 Currently studying Data Structures and Algorithms
-- 🖥️ I use Arch Linux!
+- 🖥️ I use Arch btw!
 - 🙌 Looking to collaborate on FOSS projects
 - 📫 You can reach me at atashroozarash@gmail.com or my discord "vipertheguy"
 ```
