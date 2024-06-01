@@ -13,9 +13,9 @@
 
 ```
 - 👋 Hi, I’m Ali Atashrooz
-- 👀 Interested in Machine Learning and Low Level Development
-- 🌱 Currently studying Data Structures and Algorithms through C++ along with Tensorflow framework
-- 🖥️ I use Arch Linux with i3wm and Rofi as my desktop
+- 👀 Interested in transistors 
+- 🌱 Currently studying Data Structures and Algorithms
+- 🖥️ I use Arch Linux!
 - 🙌 Looking to collaborate on FOSS projects
 - 📫 You can reach me at atashroozarash@gmail.com or my discord "vipertheguy"
 ```
@@ -27,7 +27,6 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=arash28134&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash28134&theme=tokyonight&hide=CSS,HTML,PHP&langs_count=3"/>|
  
 ### IDE/Editor (s) In Use:
-<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
 <img align="left" src="https://img.shields.io/badge/-Neovim-005ba4?logo=neovim">
 <img align="left" src="https://img.shields.io/badge/-Vim-005ba4?logo=vim">
 <br>
