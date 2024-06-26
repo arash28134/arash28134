@@ -54,9 +54,5 @@
 <br>
 
 
-### See me at:
-  <a href="https://codeforces.com/profile/arash28134"> <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a>
-  <a href="https://www.leetcode.com/arash28134"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black"> </a>
-  <a href="https://codeproject.com/Members/arash28134"> <img align="left" src="https://img.shields.io/badge/CodeProject-%23964B00.svg?logo=CodeProject&logoColor=green"> </a>
-  <a href="https://www.reddit.com/user/arash28134"> <img align="left" src="https://img.shields.io/badge/Reddit-fc4503.svg?logo=Reddit&logoColor=white"> </a>
-  <br>
+### See me at
+<a href="https://www.reddit.com/user/arash28134"> <img align="left" src="https://img.shields.io/badge/Reddit-fc4503.svg?logo=Reddit&logoColor=white"> </a>
