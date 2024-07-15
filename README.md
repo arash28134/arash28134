@@ -11,14 +11,12 @@
   <br>
 </p>
 
-```
 - 👋 Hi, I’m Ali Atashrooz
 - 👀 Interested in transistors 
 - 🌱 Currently studying Data Structures and Algorithms
-- 🖥️ I use Arch btw!
+- 🖥️ I use Arch btw! [My Dotfiles](https://github.com/arash28134/arch-dotfiles)
 - 🙌 Looking to collaborate on FOSS projects
 - 📫 You can reach me at atashroozarash@gmail.com or my discord "vipertheguy"
-```
 
 ### My Github Stats:
 
